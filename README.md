@@ -4,11 +4,11 @@ Today, we're going to make a responsive website that uses media queries. For the
 
 Here are the different column layouts we want:
 
-When the screen is less than 400px, make one column of 20.
+When the screen is less than 400px, make 1 column of 20.
 
-When the screen is between 400px and 500px, make two columns of 10.
+When the screen is between 400px and 500px, make 2 columns of 10.
 
-When the screen is between 500px and 700px, make 4 columns of 4.
+When the screen is between 500px and 700px, make 5 columns of 4.
 
 When the screen is between 700px and 900px, make 10 columns of 2.
 
